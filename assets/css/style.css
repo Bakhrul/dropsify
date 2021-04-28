@@ -282,6 +282,7 @@ body {
     .header-product-detail-wrapper .row {
         padding-left: 0 !important;
         padding-right: 0 !important;
+        margin: 0 !important;
     }
 
     .header-product-detail-wrapper .header-product-detail-column {
@@ -290,11 +291,11 @@ body {
     }
 
     .header-product-detail-wrapper .product-detail-group {
-        padding: 15px 20px;
+        padding: 15px 15px;
     }
 
     .header-product-detail-wrapper .voucher-product-detail-group {
-        padding-left: 20px;
+        padding-left: 15px;
     }
 
     .navbar-product-detail .nav-group-product-detail .nav-product-detail-left {

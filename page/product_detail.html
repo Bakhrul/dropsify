@@ -37,9 +37,13 @@
                     <div class="col-lg-5 col-md-12 header-product-detail-column">
                         <div class="position-relative">
                             <div class="slider-image-product">
-                                <img src="../assets/images/produk.png">
-                                <img src="../assets/images/produk.png">
-                                <img src="../assets/images/produk.png">
+                      
+                                    <img src="../assets/images/produk.png">
+                             
+                                    <img src="../assets/images/produk.png">
+                             
+                                    <img src="../assets/images/produk.png">
+                               
                             </div>
                             <div class="slick-slider-dots"></div>
                         </div>
@@ -1199,7 +1203,8 @@
                     </button>
                 </div>
                 <div class="w-100">
-                    <button class="btn-second-option-product text-u-sm text-white w-100" onclick="showModalCart()" type="button">Beli
+                    <button class="btn-second-option-product text-u-sm text-white w-100" onclick="showModalCart()"
+                        type="button">Beli
                         Sekarang</button>
                 </div>
             </div>
@@ -1411,7 +1416,7 @@
             let qty = $('#counterQtyCart').val();
             let response = 1;
             if (qty > 1) {
-                response = parseInt(qty) - 1;              
+                response = parseInt(qty) - 1;
             }
             $('#counterQtyCart').val(response);
         }
@@ -1420,7 +1425,7 @@
             let qty = $('#counterQtyCart').val();
             let response = 1;
             response = parseInt(qty) + 1;
-            $('#counterQtyCart').val(response);            
+            $('#counterQtyCart').val(response);
         }
 
         function hideModalOngkir() {
@@ -1473,7 +1478,7 @@
             });
             $('.slider-image-product').slick({
                 slidesToShow: 1,
-                autoplay: true,
+                // autoplay: true,
                 autoplaySpeed: 1500,
                 arrows: false,
                 dots: true,
