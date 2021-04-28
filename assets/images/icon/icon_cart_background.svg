@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="Group_11229" data-name="Group 11229" transform="translate(-16 -57)">
+    <circle id="Ellipse_4" data-name="Ellipse 4" cx="18" cy="18" r="18" transform="translate(16 57)" fill="#fff" opacity="0.5"/>
+    <path id="Icon_ionic-md-cart" data-name="Icon ionic-md-cart" d="M9.221,19.292a2,2,0,1,0,2,2A2.006,2.006,0,0,0,9.221,19.292ZM3.375,3.6v2h2l3.6,7.292L7.47,15.342a1.991,1.991,0,0,0,1.905,2.95H21.067V16.369H9.62a.236.236,0,0,1-.25-.25,1.247,1.247,0,0,1,.106-.25l1-1.577h7.45a1.962,1.962,0,0,0,1.75-1.05l3.6-6.192a1.169,1.169,0,0,0,.1-.5.961.961,0,0,0-1-.95H7.575l-.95-2ZM19.067,19.292a2,2,0,1,0,2,2A2.006,2.006,0,0,0,19.067,19.292Z" transform="translate(20.625 61.554)" fill="#e6f5ff"/>
+  </g>
+</svg>

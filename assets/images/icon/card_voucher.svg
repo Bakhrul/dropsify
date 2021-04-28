@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="231" height="104" viewBox="0 0 231 104">
+  <g id="Group_11336" data-name="Group 11336" transform="translate(-24 -367)">
+    <g id="ticket" transform="translate(24 276)">
+      <path id="Union_1" data-name="Union 1" d="M2.993,104,0,98.416l2.137-3.989L0,90.439,2.137,86.45,0,82.461l2.137-3.989L0,74.484l2.818-5.259L0,63.966l2.137-3.989L0,55.989,2.137,52,0,48.011l2.137-3.989L0,40.034l2.818-5.259L0,29.516l2.137-3.989L0,21.539,2.137,17.55,0,13.561,2.137,9.573,0,5.584,2.993,0H231V104H2.993Z" transform="translate(0 91)" fill="#e6f5ff"/>
+    </g>
+    <path id="Path_25" data-name="Path 25" d="M827,288.448v104" transform="translate(-646 78.552)" fill="none" stroke="#fff" stroke-width="1" stroke-dasharray="2 2"/>
+  </g>
+</svg>
