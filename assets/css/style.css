@@ -268,11 +268,6 @@ body {
     .navbar-product-detail .text-nav-product-detail {
         display: none !important;
     }
-
-    .header-product-detail-wrapper {
-        overflow-x: hidden !important;
-    }
-
     .header-product-detail-wrapper .container-fluid {
         padding-left: 0 !important;
         padding-right: 0 !important;
