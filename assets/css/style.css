@@ -734,6 +734,8 @@ body {
 .modal-bottom .modal-dialog .modal-content {
     border-top-right-radius: 20px;
     border-top-left-radius: 20px;
+    border-bottom-left-radius: 0 !important;
+    border-bottom-right-radius: 0 !important;
     border: unset;
 }
 
